@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/landingpage/static/css/main.073c9b0a.css",
-    "main.js": "/landingpage/static/js/main.3eebc85b.js",
-    "static/js/787.66b477fd.chunk.js": "/landingpage/static/js/787.66b477fd.chunk.js",
-    "static/media/logo.svg": "/landingpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/landingpage/static/css/main.756a7eb0.chunk.css",
+    "main.js": "/landingpage/static/js/main.c4eb0bc7.chunk.js",
+    "main.js.map": "/landingpage/static/js/main.c4eb0bc7.chunk.js.map",
+    "runtime-main.js": "/landingpage/static/js/runtime-main.580c0a91.js",
+    "runtime-main.js.map": "/landingpage/static/js/runtime-main.580c0a91.js.map",
+    "static/js/2.d693f8e5.chunk.js": "/landingpage/static/js/2.d693f8e5.chunk.js",
+    "static/js/2.d693f8e5.chunk.js.map": "/landingpage/static/js/2.d693f8e5.chunk.js.map",
+    "static/js/3.cf7e4367.chunk.js": "/landingpage/static/js/3.cf7e4367.chunk.js",
+    "static/js/3.cf7e4367.chunk.js.map": "/landingpage/static/js/3.cf7e4367.chunk.js.map",
     "index.html": "/landingpage/index.html",
-    "main.073c9b0a.css.map": "/landingpage/static/css/main.073c9b0a.css.map",
-    "main.3eebc85b.js.map": "/landingpage/static/js/main.3eebc85b.js.map",
-    "787.66b477fd.chunk.js.map": "/landingpage/static/js/787.66b477fd.chunk.js.map"
+    "static/css/main.756a7eb0.chunk.css.map": "/landingpage/static/css/main.756a7eb0.chunk.css.map",
+    "static/js/2.d693f8e5.chunk.js.LICENSE.txt": "/landingpage/static/js/2.d693f8e5.chunk.js.LICENSE.txt",
+    "static/media/about.22d9cbd1.png": "/landingpage/static/media/about.22d9cbd1.png",
+    "static/media/card.720a18f8.png": "/landingpage/static/media/card.720a18f8.png",
+    "static/media/header-right.0fcec029.png": "/landingpage/static/media/header-right.0fcec029.png",
+    "static/media/sword.845e524c.png": "/landingpage/static/media/sword.845e524c.png",
+    "static/media/token.6f39484b.png": "/landingpage/static/media/token.6f39484b.png",
+    "static/media/tokenomics_back.441e8152.png": "/landingpage/static/media/tokenomics_back.441e8152.png"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3eebc85b.js"
+    "static/js/runtime-main.580c0a91.js",
+    "static/js/2.d693f8e5.chunk.js",
+    "static/css/main.756a7eb0.chunk.css",
+    "static/js/main.c4eb0bc7.chunk.js"
   ]
 }
